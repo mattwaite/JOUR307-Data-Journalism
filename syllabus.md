@@ -1,12 +1,11 @@
 #JOUR 407 Data journalism#
-__SEMESTER YEAR__  
-__DAYOFWEEK START_TIME - END_TIME__  
-__LOCATION__  
+__Fall 2014__  
+__T-Th 9:30 - 11:20 a.m.__  
+__ANDN 224__  
 
 Instructor: Matt Waite  
 Email: mwaite3@unl.edu  
 Twitter: @mattwaite  
-IM: matt.waite on Gtalk, mdwnlz on Yahoo  
 Phones: (402) 802-5202 cell, (402) 472-5840 office  
 Office: 318 Andersen  
 
@@ -23,17 +22,35 @@ __Texts:__
 * [The Data Journalism Handbook](http://datajournalismhandbook.org/)  
 * Online materials and class handouts as needed
 
+
 __Class opportunities:__  
 
-Add if they exist. Examples: Election coverage. Special grant funded work. 
+TBA: We have an election this semester. We also have some other opportunities bubbling up.
 
 __Grading:__  
 
 The grading will be based on the stories you produce, the work you put into them and your participation in class. 
 
+The bulk of the graded work in this class is as follows:
+
+|Assignment|Percentage of your grade|
+|----------|------------------------|
+|Four enterprise stories|70%|
+|Data negotiation|20%|
+|Reaction papers|5%|
+|Class participation/attendance|5%|
+
+_Enterprise stories_: You will be required to pitch and execute four data journalism stories on your own during the semester. The stories must include original analysis of data you have obtained, a graphic or visualization of that data and a story worth publishing on NewsNetNebraska. Each story will be line edited and produced for online at an appointed time outside of class.
+
+_Data negotiation_: During the semester, you will identify a database held by a government agency that you need for a story and go get it. You are negotiating for public data as a journalist, you may not promise to not use the records. Downloading data from the Internet does not fulfill the requirements of this exercise. You will be assigned a deadline for your dataset, and on your deadline day, you will give a 5-min. lightning talk about your experience along with a written report. We will discuss details in class.
+
+_Reaction papers_: We will have speakers from the data journalism community talking to us. Attendance those days is mandatory since you'll have to produce a reaction paper from the talk. 
+
+_Class participation and attendance_: You are bad at college if you don't know what this means. Get involved in class, speak up, ask questions, challenge ideas and you'll get the points. Sit on your hands, do nothing, skip class and you will not like what happens.
+
 __Notes on attendance:__  
 
-Yes, we all get sick. Yes, things happen. I don’t want you to be sick in my class any more than you want to be sick. You’ve got no fewer than five ways to get ahold of me. If you are going to miss class, tell me before class. We’ll work it out. But you have to tell me before class for me to help you.
+Yes, we all get sick. Yes, things happen. I don’t want you to be sick in my class any more than you want to be sick. You’ve got no fewer than four ways to get ahold of me, including my cell number. If you are going to miss class, tell me before class. We’ll work it out. But you have to tell me before class for me to help you.
 
 This said: this class builds each class onto the next one. Miss a class and you are behind. We’re going to be covering a lot of new material in this class. Miss one at your own peril.
 
@@ -70,131 +87,201 @@ The College of Journalism and Mass Communications values diversity, in the broad
 A word of warning: This class is pretty fluid. I will move things up and back, depending on how well you’re getting things. If things change, I will update the syllabus on Blackboard and I will update you. 
 
 
-__Week 1:__  
 
-Discussion: Intro, project discussion, thinking about data.
+Intro, project discussion, thinking about data.
+Data basics -- from rows and columns to metadata
+Visualization basics -- what chart when and why
+Getting data that isn’t online
+Writing about numbers
+Maps are a language we all speak
+Documents as data
+Statistics for reporting
 
-Hands-on: Finding data online.
 
-Homework: 
 
-__Week 2:__  
 
-Discussion: 
+###Aug. 26, 2014###
 
-Hands-on: 
+**In class:**
 
-Homework: 
+**Homework:**
 
-__Week 3:__ 
+###Aug. 28, 2014###
 
-Discussion: 
+**In class:**
 
-Hands-on: 
+**Homework:**
 
-Homework: 
+###Sept. 2, 2014###
 
-__Week 4:__
+**In class:**
 
-Discussion: Data basics -- from rows and columns to metadata
+**Homework:**
 
-Hands-on: Advanced spreadsheets
+###Sept. 4, 2014###
 
-Homework: TBA
+**In class:**
 
-__Week 5:__ 
+**Homework:**
 
-Discussion: Visualization basics -- what chart when and why
+###Sept. 9, 2014###
 
-Hands-on: Fusion Tables
+**In class:**
 
-Homework: TBA
+**Homework:**
 
-__Week 6:__ 
+###Sept. 11, 2014###
 
-Discussion: Dirty data
+**In class:**
 
-Hands-on: Google Refine
+**Homework:**
 
-Homework: TBA
+###Sept. 16, 2014###
 
-__Week 7:__ 
+**In class:**
 
-Discussion: Getting data that isn’t online
+**Homework:**
 
-Hands-on: Intro to databases and SQL
+###Sept. 18, 2014###
 
-Homework: TBA
+**In class:**
 
-__Week 8:__ 
+**Homework:**
 
-Discussion: 
+###Sept. 23, 2014###
 
-Hands-on: Intermediate SQL
+**In class:**
 
-Homework: TBA
+**Homework:**
 
-__Week 9:__ 
+###Sept. 25, 2014###
 
-Discussion: Writing about numbers
+ONA Conference. No class. 
 
-Hands-on: Advanced SQL
+###Sept. 30, 2014###
 
-Homework: TBA
+**In class:**
 
-__Week 10:__
+**Homework:**
 
-Discussion: Maps are a language we all speak
+###Oct. 2, 2014###
 
-Hands-on: Intro to GIS
+**In class:**
 
-Homework: TBA
+**Homework:**
 
-__Week 11:__ 
+###Oct. 7, 2014###
 
-Discussion: 
+**In class:**
 
-Hands-on: 
+**Homework:**
 
-Homework: 
+###Oct. 9, 2014###
 
-__Week 12:__ 
+**In class:**
 
-Discussion: Wetlands, imagery, advanced GIS and how I nearly went insane
+**Homework:**
 
-Hands-on: Intermediate GIS
+###Oct. 14, 2014###
 
-Homework: TBA
+**In class:**
 
-__Week 13:__ 
+**Homework:**
 
-Discussion: Documents as data
+###Oct. 16, 2014###
 
-Hands-on: Intro to scripting languages and data scraping
+**In class:**
 
-Homework: TBA
+**Homework:**
 
-__Week 14:__ 
+###Oct. 21, 2014###
 
-Discussion: Statistics for reporting
+**FALL BREAK: No Class**
 
-Hands-on: More on scraping
+###Oct. 23, 2014###
 
-Homework: TBA
+**In class:**
 
-__Week 15:__ 
+**Homework:**
 
-Discussion: Leaving this class open for project work
+###Oct. 28, 2014###
 
-Hands-on:
+**In class:**
 
-Homework: TBA
+**Homework:**
 
-__Week 16:__ 
+###Oct. 30, 2014###
 
-Discussion: Leaving this class open for project work
+**In class:**
 
-Hands-on:
+**Homework:**
 
-Homework: TBA
+###Nov. 4, 2014###
 
+**In class:**
+
+**Homework:**
+
+###Nov. 6, 2014###
+
+**In class:**
+
+**Homework:**
+
+###Nov. 11, 2014###
+
+**In class:**
+
+**Homework:**
+
+###Nov. 13, 2014###
+
+**In class:**
+
+**Homework:**
+
+###Nov. 18, 2014###
+
+**In class:**
+
+**Homework:**
+
+###Nov. 20, 2014###
+
+**In class:**
+
+**Homework:**
+
+###Nov. 25, 2014###
+
+**In class:**
+
+**Homework:**
+
+###Nov. 27, 2014###
+
+Thanksgiving. No class.
+
+###Dec. 2, 2014###
+
+**In class:**
+
+**Homework:**
+
+###Dec. 4, 2014###
+
+**In class:**
+
+**Homework:**
+
+###Dec. 9, 2014###
+
+**In class:**
+
+**Homework:**
+
+###Dec. 11, 2014###
+
+**In class:**
+
+**Homework:**
