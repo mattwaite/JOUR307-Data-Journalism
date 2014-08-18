@@ -17,15 +17,14 @@ __Course goal:__
 
 To get your hands dirty, to learn something new and turn you into a data nerd. Oh, and produce some journalism too.
 
-__Texts:__  
+__Required Materials:__  
 
-* [The Data Journalism Handbook](http://datajournalismhandbook.org/)  
+* A functioning laptop computer that you must bring with you to class every time and ~800 MB of free hard drive space.
+* The administrative priviledges to install software on your computer.
+* A copy of Microsoft Excel. The MS Office suite is $20 at the UNL Computer Store.
+* [The Data Journalism Handbook](http://datajournalismhandbook.org/) Free! 
 * Online materials and class handouts as needed
-
-
-__Class opportunities:__  
-
-TBA: We have an election this semester. We also have some other opportunities bubbling up.
+* A sense of humor.
 
 __Grading:__  
 
@@ -104,35 +103,66 @@ Statistics for reporting
 
 **In class:**
 
+Introductions, syllabus, what is data journalism?
+
 **Homework:**
+
+Read: [Chapter 1 of the Data Journalism Handbook](http://datajournalismhandbook.org/1.0/en/introduction.html)  
+Read: [Sun Sentinel: Speeding Cops](http://www.sun-sentinel.com/news/local/speeding-cops/)
 
 ###Aug. 28, 2014###
 
-**In class:**
+**In class:** 
+
+Public Records: Your rights as a citizen and a journalist.  
+The public records request assignment.
+More examples of data stories; how to start looking for them.
 
 **Homework:**
+
+Review the records retention schedule for an agency you're interested in. Find a database. Make sure it's not online. Be ready to pitch it as your semester long quest next class.
 
 ###Sept. 2, 2014###
 
-**In class:**
+**In class:** 
+
+Records quest pitches; 
+Bad at Math is a Lie; 
+Basic Excel - rows, columns, cells, importing, sorting, filtering
 
 **Homework:**
+
+Excel exercise TBA.
 
 ###Sept. 4, 2014###
 
 **In class:**
 
+Recent examples of data journalism;
+Basic Excel II - mean, median, min, max, ranking
+
 **Homework:**
+
+Prepare a story pitch for your first enterprise story.
 
 ###Sept. 9, 2014###
 
 **In class:**
 
+First story pitches;
+Idea + Excel + Data does not equal story;
+Writing with numbers;
+
 **Homework:**
+
+Refine your pitch and submit it to Blackboard.
 
 ###Sept. 11, 2014###
 
 **In class:**
+
+More examples of data journalism;
+Intermediate Excel - string functions, if/then logic, text to columns;
 
 **Homework:**
 
@@ -140,17 +170,28 @@ Statistics for reporting
 
 **In class:**
 
+Basic data visualization with Excel;
+How to report with charts;
+
 **Homework:**
+
+Using Excel, visualize the data from your story. Does it change anything? 
 
 ###Sept. 18, 2014###
 
 **In class:**
 
+Basic data visualization with Chartbuilder and Raw
+
 **Homework:**
+
+Produce at least one data visualization to accompany your story, which is due on Tuesday.
 
 ###Sept. 23, 2014###
 
 **In class:**
+
+Line edits of your first story. Sign up for a meeting time. No class meeting.
 
 **Homework:**
 
@@ -161,6 +202,8 @@ ONA Conference. No class.
 ###Sept. 30, 2014###
 
 **In class:**
+
+
 
 **Homework:**
 
