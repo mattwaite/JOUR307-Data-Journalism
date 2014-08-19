@@ -11,7 +11,7 @@ Office: 318 Andersen
 
 __Course description:__  
 
-Every day, more of our lives is being stored in a database somewhere. With that explosion of data, reporters more than ever need the skills to analyze and understand data to then write the stories hidden in the information. Gone are the days when a reporter could grab a notebook and say “I suck at math.” If that’s what you aspire to, leave now. Don’t want to be that reporter? Welcome to data journalism. The best reporters harness the right tools to get the story. In this class, we’ll use brainpower and software to look at raw data -- not summarized and already reported information --  to do investigative reporting. We’re going to get our hands dirty with spreadsheets, databases, maps, some basic stats and, time permitting, some stuff I’ll call “serious future s**t.” And in the end, we’ve got a project to produce. So buckle up and hold on.
+Every day, more of our lives is being stored in a database somewhere. With that explosion of data, reporters more than ever need the skills to analyze and understand data to then write the stories hidden in the information. Gone are the days when a reporter could grab a notebook and say “I suck at math.” If that’s what you aspire to, leave now. Don’t want to be that reporter? Welcome to data journalism. The best reporters harness the right tools to get the story. In this class, we’ll use brainpower and software to look at raw data -- not summarized and already reported information --  to do investigative reporting. We’re going to get our hands dirty with spreadsheets, databases, maps, some basic stats and, time permitting, some stuff I’ll call “serious future s**t.” And we're going to do journalism. So buckle up and hold on.
 
 __Course goals:__  
 
@@ -39,8 +39,9 @@ The bulk of the graded work in this class is as follows:
 
 |Assignment|Percentage of your grade|
 |----------|------------------------|
-|Four enterprise stories|70%|
+|Four enterprise stories|60%|
 |Data negotiation|20%|
+|Assignments|10%|
 |Data diaries|5%|
 |Class participation/attendance|5%|
 
@@ -89,20 +90,6 @@ The College of Journalism and Mass Communications values diversity, in the broad
 ##Class Schedule:##
 
 A word of warning: This class is pretty fluid. I will move things up and back, depending on how well you’re getting things. If things change, I will update the syllabus on Blackboard and I will update you. 
-
-
-
-Intro, project discussion, thinking about data.
-Data basics -- from rows and columns to metadata
-Visualization basics -- what chart when and why
-Getting data that isn’t online
-Writing about numbers
-Maps are a language we all speak
-Documents as data
-Statistics for reporting
-
-
-
 
 ###Aug. 26, 2014###
 
@@ -170,6 +157,8 @@ More examples of data journalism;
 Intermediate Excel - string functions, if/then logic, text to columns;
 
 **Homework:**
+
+Data cleaning exercise
 
 ###Sept. 16, 2014###
 
@@ -357,19 +346,36 @@ NodeXL homework to be assigned
 
 **In class:**
 
+More examples;
+Pulling data from PDFs;
+Strategies, software, horrors;
+
 **Homework:**
+
+Make a PDF into data
 
 ###Nov. 20, 2014###
 
 **In class:**
 
+PDF horror show therapy - how did the assignment go?
+Nebraska's public records shame;
+
 **Homework:**
+
+None
 
 ###Nov. 25, 2014###
 
 **In class:**
 
+Getting your own data;
+Options available to you;
+Design your own data gathering effort;
+
 **Homework:**
+
+None 
 
 ###Nov. 27, 2014###
 
@@ -378,6 +384,9 @@ Thanksgiving. No class.
 ###Dec. 2, 2014###
 
 **In class:**
+
+Serious future s***;
+Drone mapping, sensor networks, story bots
 
 **Homework:**
 
