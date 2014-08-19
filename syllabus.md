@@ -13,17 +13,22 @@ __Course description:__
 
 Every day, more of our lives is being stored in a database somewhere. With that explosion of data, reporters more than ever need the skills to analyze and understand data to then write the stories hidden in the information. Gone are the days when a reporter could grab a notebook and say “I suck at math.” If that’s what you aspire to, leave now. Don’t want to be that reporter? Welcome to data journalism. The best reporters harness the right tools to get the story. In this class, we’ll use brainpower and software to look at raw data -- not summarized and already reported information --  to do investigative reporting. We’re going to get our hands dirty with spreadsheets, databases, maps, some basic stats and, time permitting, some stuff I’ll call “serious future s**t.” And in the end, we’ve got a project to produce. So buckle up and hold on.
 
-__Course goal:__  
+__Course goals:__  
 
-To get your hands dirty, to learn something new and turn you into a data nerd. Oh, and produce some journalism too.
+* Understand the basics of data and data journalism
+* Master the use of data in journalistic storytelling
+* Master spreadsheets and basic data visualization for storytelling
+* Use public records laws and understand your rights as a citizen and a journalist
+* Gain exposure to advanced tools of data journalism, like GIS and social network analysis, as well as advanced methods of gathering data.
 
 __Required Materials:__  
 
 * A functioning laptop computer that you must bring with you to class every time and ~800 MB of free hard drive space.
 * The administrative priviledges to install software on your computer.
 * A copy of Microsoft Excel. The MS Office suite is $20 at the UNL Computer Store.
+* [An up-to-date version of Firefox](https://www.mozilla.org/en-US/firefox/new/). Free!
 * [The Data Journalism Handbook](http://datajournalismhandbook.org/) Free! 
-* Online materials and class handouts as needed
+* Online materials and class handouts, as needed.
 * A sense of humor.
 
 __Grading:__  
@@ -36,14 +41,14 @@ The bulk of the graded work in this class is as follows:
 |----------|------------------------|
 |Four enterprise stories|70%|
 |Data negotiation|20%|
-|Reaction papers|5%|
+|Data diaries|5%|
 |Class participation/attendance|5%|
 
 _Enterprise stories_: You will be required to pitch and execute four data journalism stories on your own during the semester. The stories must include original analysis of data you have obtained, a graphic or visualization of that data and a story worth publishing on NewsNetNebraska. Each story will be line edited and produced for online at an appointed time outside of class.
 
 _Data negotiation_: During the semester, you will identify a database held by a government agency that you need for a story and go get it. You are negotiating for public data as a journalist, you may not promise to not use the records. Downloading data from the Internet does not fulfill the requirements of this exercise. You will be assigned a deadline for your dataset, and on your deadline day, you will give a 5-min. lightning talk about your experience along with a written report. We will discuss details in class.
 
-_Reaction papers_: We will have speakers from the data journalism community talking to us. Attendance those days is mandatory since you'll have to produce a reaction paper from the talk. 
+_Data diaries_: Throughout your analysis of data, you need to keep a running diary of what you have done -- what actions you took, commands you ran, thinking behind what you are doing. Yes, it will seem odd, but think of it like writing future you a note explaining how to do this again.
 
 _Class participation and attendance_: You are bad at college if you don't know what this means. Get involved in class, speak up, ask questions, challenge ideas and you'll get the points. Sit on your hands, do nothing, skip class and you will not like what happens.
 
@@ -195,6 +200,9 @@ Line edits of your first story. Sign up for a meeting time. No class meeting.
 
 **Homework:**
 
+Prepare a pitch for your next story.
+Install [Open Refine](http://openrefine.org/).
+
 ###Sept. 25, 2014###
 
 ONA Conference. No class. 
@@ -203,31 +211,52 @@ ONA Conference. No class.
 
 **In class:**
 
-
+Story pitches;
+Sanity checks;
+Normalizing data with Open Refine;
 
 **Homework:**
+
+Install SQLite Manager in your FireFox browser
 
 ###Oct. 2, 2014###
 
 **In class:**
 
+More examples of data journalism;
+Intro to SQL I - basic concepts, importing data, SELECT, WHERE and more.
+
 **Homework:**
+
+SQL homework to be assigned
 
 ###Oct. 7, 2014###
 
 **In class:**
 
+SQL II - Like searches, string functions
+
 **Homework:**
+
+SQL homework to be assigned
 
 ###Oct. 9, 2014###
 
 **In class:**
 
+SQL III - Joins
+
 **Homework:**
+
+SQL homework to be assigned
 
 ###Oct. 14, 2014###
 
 **In class:**
+
+Data is not truth;
+Reading footnotes, methodology, metadata;
+Thinking critically about what data says, and doesn't; 
 
 **Homework:**
 
@@ -235,7 +264,12 @@ ONA Conference. No class.
 
 **In class:**
 
+Line edits, sign up for a time, no class meeting.
+
 **Homework:**
+
+Prepare your next story pitch.
+Install [QGIS](http://www.qgis.org/en/site/)
 
 ###Oct. 21, 2014###
 
@@ -245,43 +279,79 @@ ONA Conference. No class.
 
 **In class:**
 
+Story pitches;
+GIS in journalism -- stories with maps;
+Intro to GIS;
+
 **Homework:**
+
+GIS homework to be assigned
 
 ###Oct. 28, 2014###
 
 **In class:**
 
+GIS II - layers, data joins
+
 **Homework:**
+
+GIS homework to be assigned
 
 ###Oct. 30, 2014###
 
 **In class:**
 
+The good and the bad of online maps;
+Intro to election mapping;
+Intro to Tilemill;
+
 **Homework:**
+
+Tilemill homework to be assigned
 
 ###Nov. 4, 2014###
 
 **In class:**
 
+Election day;
+How live election mapping works;
+Tilemill 2;
+
 **Homework:**
+
+Live election results mapping assignment using Tilemill
 
 ###Nov. 6, 2014###
 
 **In class:**
 
+Line edits, sign up for a time, no class meeting.
+
 **Homework:**
+
+Prepare your final story pitch.
 
 ###Nov. 11, 2014###
 
 **In class:**
 
+Story pitches.
+Intro to social network analysis with NodeXL
+
 **Homework:**
+
+NodeXL homework to be assigned
 
 ###Nov. 13, 2014###
 
 **In class:**
 
+More examples of data journalism;
+More NodeXL;
+
 **Homework:**
+
+NodeXL homework to be assigned
 
 ###Nov. 18, 2014###
 
@@ -311,20 +381,35 @@ Thanksgiving. No class.
 
 **Homework:**
 
+Prepare your open records request lightning talk and paper.
+
 ###Dec. 4, 2014###
 
 **In class:**
 
+The Open Records Quest Lightning Talks;
+
 **Homework:**
+
+Work on your final projects.
 
 ###Dec. 9, 2014###
 
 **In class:**
 
+The future of data journalism;
+How to get a job with what you've learned;
+
 **Homework:**
+
+None. Stories due Thursday.
 
 ###Dec. 11, 2014###
 
 **In class:**
 
+Line edits, sign up for a time, no class meeting.
+
 **Homework:**
+
+None, we're done.
