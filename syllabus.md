@@ -1,7 +1,7 @@
 #JOUR 407 Data journalism#
 __Fall 2014__  
 __T-Th 9:30 - 11:20 a.m.__  
-__ANDN 224__  
+__ANDN 120__  
 
 Instructor: Matt Waite  
 Email: mwaite3@unl.edu  
