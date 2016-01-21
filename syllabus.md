@@ -144,6 +144,9 @@ There will be a reading quiz. Alert me immediately if the bookstore doesn't have
 * The foundations of analysis: The general questions you ask. 
 * Summary statistics, central tendency, and more.
 
+[Lecture slides](https://mattwaite.github.io/jour407/lectures/analysisbasics.html#1)
+
+
 **Homework:**
 
 * Read: Herzog Chapter 8
@@ -157,10 +160,15 @@ There will be a reading quiz. Alert me immediately if the bookstore doesn't have
 * Basic Spreadsheets: rows, columns, cells, importing, sorting, filtering
 * Applied analysis basics: calculating the formula for percent change
 
+[Lecture slides](https://mattwaite.github.io/jour407/lectures/spreadsheetbasics.html#1)
+
 **Homework:**
 
-Spreadsheet exercise TBA
-
+- Using tax data from the Nebraska Department of Revenue, calculate the following:
+- The change in Federal Adjusted Gross Income between 2000 and 2013 for every county in Nebraska.
+- The average the number of exemptions per return in 2000 and 2013 for every county in Nebraska.
+- The change in average Nebraska Net Taxable Income per return between 2000 and 2013 for every county in Nebraska.
+- In a paragraph, explain what you did. How did you arrive at the answers you got? What steps did you have to take? And answer this question: If you had to explain how you got those answers to an editor, how comfortable are you that you could do that, and that you'd get the same answers?
 ###Jan. 26, 2016###
 
 **In class:**
