@@ -169,6 +169,7 @@ There will be a reading quiz. Alert me immediately if the bookstore doesn't have
 - The average the number of exemptions per return in 2000 and 2013 for every county in Nebraska.
 - The change in average Nebraska Net Taxable Income per return between 2000 and 2013 for every county in Nebraska.
 - In a paragraph, explain what you did. How did you arrive at the answers you got? What steps did you have to take? And answer this question: If you had to explain how you got those answers to an editor, how comfortable are you that you could do that, and that you'd get the same answers?
+
 ###Jan. 26, 2016###
 
 **In class:**
@@ -179,7 +180,7 @@ There will be a reading quiz. Alert me immediately if the bookstore doesn't have
 
 **Homework:**
 
-* Install Jupyter, Git and Agate. Installation instructions and first steps TBD. 
+* Install Jupyter, Git and Agate.  
 * Read [Reducing barriers between programmers and non-programmers in the newsroom](http://towcenter.org/reducing-barriers-between-programmers-and-non-programmers-in-the-newsroom/)
 
 ###Jan. 28, 2016###
