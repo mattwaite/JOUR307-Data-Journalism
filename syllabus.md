@@ -178,9 +178,11 @@ There will be a reading quiz. Alert me immediately if the bookstore doesn't have
 * Does anyone see the problem here?
 * Reliability, replicability, transparency. 
 
+[Lecture slides](https://mattwaite.github.io/jour407/lectures/morespreadsheetbasics.html)
+
 **Homework:**
 
-* Install Jupyter, Git and Agate.  
+* [Install Anaconda](https://github.com/mattwaite/JOUR407-Data-Journalism/blob/master/Assignments/Installations/installing_jupyter_notebook.md).  
 * Read [Reducing barriers between programmers and non-programmers in the newsroom](http://towcenter.org/reducing-barriers-between-programmers-and-non-programmers-in-the-newsroom/)
 
 ###Jan. 28, 2016###
