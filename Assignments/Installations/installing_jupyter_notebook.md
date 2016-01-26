@@ -3,9 +3,9 @@
 
 1. First, download and install Anaconda on your computer. You can download it here: [https://www.continuum.io/downloads](https://www.continuum.io/downloads) WARNING: It will take up 845MB of your hard drive. Install the version for Python 3.5. 
 2. Open your terminal (Mac) or Command Prompt (Windows) and type: `conda list`
-3. If a big stream of text goes by, you've got Anaconda installed. You're done. We'll do the rest in class.
+3. If a big stream of text goes by, you've got Anaconda installed.
 4. If you get an error or nothing happens, come find me. STOP HERE IF YOU GET AN ERROR MESSAGE.
-5. Let's update Anaconda by typing in your terminal `conda update conda` and then type y when it asks if you want to update the packages. Yes you do.
+5. Let's update Anaconda by typing in your terminal `conda update conda` and then type `y` when it asks if you want to update the packages. 
 6. Now let's create an environment for us to work in. Type `conda create --name homework python=3 jupyter` into your terminal and say yes to the installation. What this does is it creates a whole new python environment that won't interfere with any python environments you have set up before (Mac users: Apple installs Python 2.7 in your system and messing with it can have disastrous consequences for your machine. Thus, environments).
 7. Activate your new environment by typing `source activate homework` on a Mac/Linux and `activate homework` on a Windows machine. 
 8. Now let's install Agate, a python library for working with data in very data journalist friendly ways. To do that, we'll use Pip, which is installed with Anaconda. Type `pip install agate` and wait for it to finish. 
