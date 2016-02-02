@@ -191,34 +191,31 @@ There will be a reading quiz. Alert me immediately if the bookstore doesn't have
 
 * Changing how we approach data journalism
 * Working in the environment
-* An in-class example of working with a dataset
+* An in-class example of working with a dataset: sorting, means and medians
 
 **Homework:**
 
-* Re-do the spreadsheet exercise from January 19, except this time use Jupyter to document your process and achieve the same results. Be prepared to discuss it in class. We will also commit your code to Github in the next class.
+* [Complete the assignment at the end of this walkthrough of Agate](https://github.com/mattwaite/JOUR407-Data-Journalism/blob/master/Assignments/FirstAgateAssignment/introducing_jupyter_and_agate.md).
 
 ###Feb. 2, 2016###
 
 **In class:**
 
-* Working in the open: Code sharing, version control and GitHub.
-* More working in Jupyter: Implementing analysis basics in Python and Pandas
+Snow Day: Class cancelled.
 
 **Homework:**
-
-* Jupyter exercise TBD. 
-* Develop a story idea for your first data story. You will have to find a story, find some data and use Jupyter to analyze that data for your story. Be ready to pitch stories on Tuesday. 
 
 ###Feb. 4, 2016###
 
 **In class:**
 
-* Story pitches
-* One more basic Jupyter/Python/Pandas session
+* Jupyter/Agate review
+* More working in Jupyter: Group by and aggregates in Agate
 
 **Homework:**
 
-* Jupyter exercise TBD
+* More working with NU salaries: Group by, counting, averages and medians by job titles. 
+* Develop a story idea for your first data story. You will have to find a story, find some data and use Jupyter to analyze that data for your story. Be ready to pitch stories on Tuesday. 
 * Install [Open Refine](http://openrefine.org/).
 
 ###Feb. 9, 2016###
@@ -243,7 +240,7 @@ Data preparing assigment TBD.
 **Homework:**
 
 * Data smells assignment TBD
-* Install [Open Refine](http://openrefine.org/).
+* Install [Github Desktop](https://desktop.github.com/)
 
 ###Feb. 16, 2016###
 
