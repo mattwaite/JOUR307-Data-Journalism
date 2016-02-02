@@ -193,6 +193,8 @@ There will be a reading quiz. Alert me immediately if the bookstore doesn't have
 * Working in the environment
 * An in-class example of working with a dataset: sorting, means and medians
 
+[Lecture Jupyter Notebook](https://github.com/mattwaite/JOUR407-Data-Journalism/blob/master/Assignments/IntroductionToAgate/intro.ipynb)
+
 **Homework:**
 
 * [Complete the assignment at the end of this walkthrough of Agate](https://github.com/mattwaite/JOUR407-Data-Journalism/blob/master/Assignments/FirstAgateAssignment/introducing_jupyter_and_agate.md).
