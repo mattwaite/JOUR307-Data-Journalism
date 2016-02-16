@@ -71,7 +71,8 @@ In this assignment, you must take a file from the Nebraska Department of Environ
 
 Yes, the acronym for leaking underground storage tanks is LUST.
 
-To do this, you will need to:
+To do this, you will need to: 
+
 1. [Get the file from the DEQ](http://www.deq.state.ne.us/lustsurf.nsf/pages/sssi). The file you want is called spillfac.csv, but keep this page handy because it has some filter conditions you're going to need.
 2. The file that comes from the state is not UTF-8. Follow the walkthrough. Use Excel and csvkit to zap the non-UTF-8 characters.
 3. Normalize the data using Open Refine. Specifically, the fields you need to normalize are the owner company -- OWNCO -- and the city the tank is in -- SPCITY.
