@@ -263,7 +263,7 @@ Snow Day: Class cancelled.
 
 **Homework:**
 
-Complete the data smells assignment
+[Complete the data smells assignment and the end of the walkthrough](https://github.com/mattwaite/JOUR407-Data-Journalism/blob/master/Assignments/DataSmellsAssignment/DataSmellsWalkthrough.ipynb). 
 
 ###Feb. 23, 2016###
 
