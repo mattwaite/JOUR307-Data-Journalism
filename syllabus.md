@@ -211,7 +211,6 @@ Snow Day: Class cancelled.
 
 **In class:**
 
-* Jupyter/Agate review
 * More working in Jupyter: Group by and aggregates in Agate
 
 **Homework:**
@@ -224,38 +223,59 @@ Snow Day: Class cancelled.
 
 **In class:**
 
-* Taking a step back: Preparing data to be imported. 
-* File formats and the maddening things people do to them
-* Tools at your disposal
+* Row-wise vs column-wise calculations in Agate
+* Percent change calculations.
 
 **Homework:**
 
-Data preparing assigment TBD.
+[Complete the Percent Change walkthrough and the assignment at the end](https://github.com/mattwaite/JOUR407-Data-Journalism/blob/master/Assignments/ThirdAgateAssignment/percentchangewalkthrough.ipynb).
 
 ###Feb. 11, 2016###
 
 **In class:**
 
-* Intro to data cleaning, sanity checks and data smells
-* Intro to data smells in Jupyter
+* Intro to data cleaning
+* Into to Open Refine
 
 **Homework:**
 
-* Data smells assignment TBD
+* [Complete the data normalization walkthrough and assignment](https://github.com/mattwaite/JOUR407-Data-Journalism/blob/master/Assignments/DataNormalizationAssignment/data_normalization_walkthrough.md) and [here's a little help with it](https://github.com/mattwaite/JOUR407-Data-Journalism/blob/master/Assignments/DataNormalizationAssignment/normalizationassignment.ipynb).
 * Install [Github Desktop](https://desktop.github.com/)
 
 ###Feb. 16, 2016###
 
 **In class:**
 
-* More sanity checks - normalizing data
-* Into to Open Refine
+* Realizing Phil Meyer's dream of using all of the scientific method, especially the open and replicable parts.
+* Examples
+* Intro to GitHub
 
 **Homework:**
 
-* Data normalization and cleaning assignment TBD
+* [Compelete the GitHub assignment at the end of the walkthrough](https://github.com/mattwaite/JOUR407-Data-Journalism/blob/master/Assignments/GitHubAssignment/github_for_beginners.md). 
 
 ###Feb. 18, 2016###
+
+**In class:**
+
+* Sanity checks and data smells
+* Data smells in Agate
+
+**Homework:**
+
+Complete the data smells assignment
+
+###Feb. 23, 2016###
+
+**In class:**
+
+* Intro to joins
+
+**Homework:**
+
+Complete the join assignment
+
+###Feb. 25, 2016###
 
 **In class:**
 
@@ -263,33 +283,13 @@ Line edits of your first story. Sign up for a meeting time. No class meeting.
 
 **Homework:**
 
-Prepare a pitch for your next story.
-
-###Feb. 23, 2016###
-
-**In class:**
-
-* Story pitches
-* Intro to joins
-
-**Homework:**
-
-Join assignment TBD
-
-###Feb. 25, 2016###
-
-**In class:**
-
-* More joins: inner, outer, etc.
-
-**Homework:**
-
-Join assignment TBD
+Prepare a story pitch
 
 ###March 1, 2016###
 
 **In class:**
 
+* Story pitches
 * Intro to data visualization as a reporting tool
 * Data visualization in Jupyter
 
@@ -301,17 +301,16 @@ Basic data visualization assignment TBD.
 
 **In class:**
 
-Line edits, sign up for a time, no class meeting.
+More data viz in Jupyter
 
 **Homework:**
 
-Prepare your next story pitch.
+Data viz assignment TBD
 
 ###March 8, 2016###
 
 **In class:**
 
-* Story pitches
 * GIS in journalism -- stories with maps
 * Intro to GIS
 * When is a map not a map
@@ -328,18 +327,14 @@ GIS homework to be assigned
 
 **In class:**
 
-* GIS in Jupyter
-* Other GIS tools available to you
+* Line edits, sign up for a time, no class meeting.
 
 **Homework:**
-
-GIS homework to be assigned
 
 ###March 17, 2016###
 
 **In class:**
 
-Line edits, sign up for a time, no class meeting.
 
 **Homework:**
 
