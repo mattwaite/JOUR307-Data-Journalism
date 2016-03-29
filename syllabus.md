@@ -311,9 +311,7 @@ Data viz assignment TBD
 
 **In class:**
 
-* GIS in journalism -- stories with maps
-* Intro to GIS
-* When is a map not a map
+
 
 **Homework:**
 
@@ -335,6 +333,7 @@ GIS homework to be assigned
 
 **In class:**
 
+* Line edits, sign up for a time, no class meeting.
 
 **Homework:**
 
@@ -352,24 +351,24 @@ Prepare your final story pitch.
 
 **In class:**
 
-* Story pitches.
-* Writing with data
-* Critical looks at data journalism
+* GIS in journalism -- stories with maps
+* Intro to GIS
+* When is a map not a map
 
 **Homework:**
 
-Reading assignment TBD
+Prepare your story pitch
 
 ###March 31, 2016###
 
 **In class:**
 
-* Epistemology and Truth
-* Transparency and clarity
+* Story pitches.
+* More GIS
 
 **Homework:**
 
-Reading assignment TBD
+GIS assignment TBD
 
 ###April 5, 2016###
 
