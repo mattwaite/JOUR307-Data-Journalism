@@ -305,17 +305,14 @@ More data viz in Jupyter
 
 **Homework:**
 
-Data viz assignment TBD
-
 ###March 8, 2016###
 
 **In class:**
 
-
+More data viz in Jupyter
 
 **Homework:**
 
-GIS homework to be assigned
 
 ###March 10, 2016###
 
@@ -358,6 +355,7 @@ Prepare your final story pitch.
 **Homework:**
 
 Prepare your story pitch
+GIS assignment
 
 ###March 31, 2016###
 
@@ -369,6 +367,7 @@ Prepare your story pitch
 **Homework:**
 
 GIS assignment TBD
+Reading Assignment TBD
 
 ###April 5, 2016###
 
@@ -382,22 +381,22 @@ GIS assignment TBD
 
 **In class:**
 
-* A brief into to statistics in journalism
-* Using stats in Jupyter
+* Writing with numbers
+* Truth and epistemic justification
 
 **Homework:**
 
-Stats assignment TBD
+None
 
 ###April 14, 2016###
 
 **In class:**
 
-* More stats
+* Working with PDFs
 
 **Homework:**
 
-Stats assignment TBD
+PDF assignment TBD
 
 ###April 19, 2016###
 
@@ -419,25 +418,17 @@ The Open Records Quest Lightning Talks;
 
 **Homework:**
 
-Work on your final projects.
+Final Projects are due on April 22 at 5 p.m.
 
 ###April 26, 2016###
 
 **In class:**
 
-* The future of data journalism;
-* How to get a job with what you've learned;
-
-**Homework:**
-
-None. Stories due Thursday.
+Line edits, sign up for a time, no class meeting.
 
 ###April 28, 2016###
 
 **In class:**
 
-Line edits, sign up for a time, no class meeting.
-
-**Homework:**
-
-None, we're done.
+* The future of data journalism;
+* How to get a job with what you've learned;
