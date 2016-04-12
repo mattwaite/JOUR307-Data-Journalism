@@ -384,6 +384,9 @@ Reading Assignment TBD
 * Writing with numbers
 * Truth and epistemic justification
 
+[Lecture slides](https://mattwaite.github.io/jour407/lectures/epistemology.html)
+
+
 **Homework:**
 
 None
