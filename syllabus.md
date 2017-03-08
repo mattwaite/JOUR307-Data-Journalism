@@ -11,7 +11,7 @@ Office: 244 Andersen
 
 __Course description:__  
 
-Every day, more of our lives is being stored in a database somewhere. With that explosion of data, journalists now more than ever need the skills to analyze and understand data to then produce the stories hidden in the information. In this class, we’ll use brainpower and software to look at raw data -- not summarized and already reported information -- to do investigative reporting. We’re going to get our hands dirty with spreadsheets, databases, maps and some basic stats. And we're going to do journalism. So buckle up and hold on.
+Every day, more of our lives is being stored in a database somewhere. With that explosion of data, journalists now more than ever need the skills to analyze and understand data to then produce the stories hidden in the information. In this class, we’ll use brainpower and software to look at raw data -- not summarized and already reported information -- to do investigative reporting. We’re going to get our hands dirty analyzing data with code. And we're going to do journalism. So buckle up and hold on.
 
 __Prerequisites:__
 
@@ -21,7 +21,7 @@ __Course goals:__
 
 * Understand the basics of data and data journalism, including the history of the practice
 * Master the use of data in journalistic storytelling
-* Master spreadsheets and basic data analysis for storytelling
+* Master data analysis with Python for storytelling
 * Use public records laws and understand your rights as a citizen and a journalist
 * Gain exposure to advanced tools of data journalism, like GIS and statistics, as well as advanced methods of gathering data.
 
@@ -65,8 +65,17 @@ Yes, we all get sick. Yes, things happen. I don’t want you to be sick in my cl
 
 This said: this class builds each class onto the next one. Miss a class and you are behind. We’re going to be covering a lot of new material in this class. Miss one at your own peril.
 
-__Policies__Here's the short version.You cheat, you fail, no exceptions. If I’m doing something that’s keeping you from learning, tell me. Tell the Dean. Tell someone, because that’s not cool. I won’t tolerate it from myself and you shouldn’t either.
-Now the longer versions.__ACEJMC Competencies__
+__Policies__
+
+Here's the short version.
+
+You cheat, you fail, no exceptions. 
+
+If I’m doing something that’s keeping you from learning, tell me. Tell the Dean. Tell someone, because that’s not cool. I won’t tolerate it from myself and you shouldn’t either.
+
+Now the longer versions.
+
+__ACEJMC Competencies__
 
 After this class, you should be able to:
 
