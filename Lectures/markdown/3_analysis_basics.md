@@ -2,16 +2,6 @@
 
 ---
 
-# But first: The records request project
-
-* Throughout the semester, you are going to have to request and acquire a dataset from the state government that is not online. 
-* You will have all semester long to do this. 
-* You must document everything you do, each answer you get from the agency, what you ultimately end up with. 
-* You will submit your data and give a lightning talk about your experience on Nov. 30. 
-* DO NOT BLOW THIS OFF. Failure to get something is an F. This may take you a week. This may take you all semester. 
-
----
-
 # A word about math: You are not bad at math.
 
 ---

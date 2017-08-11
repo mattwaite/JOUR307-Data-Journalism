@@ -43,12 +43,12 @@ The bulk of the graded work in this class is as follows:
 
 |Assignment|Percentage of your grade|
 |----------|------------------------|
-|Four enterprise stories|50%|
+|Three enterprise stories|40%|
 |Analysis notebooks|20%|
 |Data negotiation|20%|
-|Assignments|10%|
+|Assignments|20%|
 
-___Enterprise stories___: You will be required to pitch and execute four data journalism stories on your own during the semester. The stories must include original analysis of data you have obtained, a graphic or visualization of that data and a story worth publishing on NewsNetNebraska (or elsewhere if possible). Each story will be line edited and produced for online at an appointed time outside of class.
+___Enterprise stories___: You will be required to pitch and execute three data journalism stories on your own during the semester. The stories must include original analysis of data you have obtained, a graphic or visualization of that data and a story worth publishing on NewsNetNebraska (or elsewhere if possible). Each story will be line edited and produced for online at an appointed time outside of class.
 
 ___Data negotiation___: During the semester, you will identify a database held by a government agency that you need for a story and go get it. You are negotiating for public data as a journalist, you may not promise to not use the records. Downloading data from the Internet does not fulfill the requirements of this exercise. You will be assigned a deadline for your dataset, and on your deadline day, you will give a 5-min. lightning talk about your experience along with a written report. We will discuss details in class.
 
@@ -149,6 +149,8 @@ There will be a reading quiz. Alert me immediately if the bookstore doesn't have
 * Records quest pitches
 * The foundations of analysis: The general questions you ask.
 * Summary statistics, central tendency, and more.
+
+[**Lecture slides**](https://github.com/mattwaite/JOUR307-Data-Journalism/blob/master/Lectures/pdf_output/2_analysis_basics.pdf)
 
 **Homework:**
 
