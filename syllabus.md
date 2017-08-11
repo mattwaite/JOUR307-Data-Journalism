@@ -60,10 +60,15 @@ Yes, we all get sick. Yes, things happen. I don’t want you to be sick in my cl
 
 This said: this class builds each class onto the next one. Miss a class and you are behind. We’re going to be covering a lot of new material in this class. Miss one at your own peril.
 
-__Policies__
+__Policies__
 
-Here's the short version.You cheat, you fail, no exceptions.If I’m doing something that’s keeping you from learning, tell me. Tell the Dean. Tell someone, because that’s not cool. I won’t tolerate it from myself and you shouldn’t either.
-Now the longer versions.
+Here's the short version.
+
+You cheat, you fail, no exceptions.
+
+If I’m doing something that’s keeping you from learning, tell me. Tell the Dean. Tell someone, because that’s not cool. I won’t tolerate it from myself and you shouldn’t either.
+
+Now the longer versions.
 
 __ACEJMC Competencies__
 
