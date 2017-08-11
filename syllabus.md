@@ -165,7 +165,7 @@ There will be a reading quiz. Alert me immediately if the bookstore doesn't have
 * Basic Spreadsheets: rows, columns, cells, importing, sorting, filtering
 * Applied analysis basics: calculating the formula for percent change
 
-[**Lecture slides:**](https://github.com/mattwaite/JOUR307-Data-Journalism/blob/master/Lectures/pdf_output/4_spreadsheet_basics.pdf):
+[**Lecture slides:**](https://github.com/mattwaite/JOUR307-Data-Journalism/blob/master/Lectures/pdf_output/4_spreadsheet_basics.pdf)
 
 **Homework:**
 
