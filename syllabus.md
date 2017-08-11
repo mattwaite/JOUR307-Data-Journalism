@@ -134,7 +134,7 @@ There will be a reading quiz. Alert me immediately if the bookstore doesn't have
 * The public records request assignment.
 * More examples of data stories; how to start looking for them.
 
-[**Lecture slides**](https://github.com/mattwaite/JOUR307-Data-Journalism/blob/master/Lectures/pdf_output/1_introductions.pdf)
+[**Lecture slides**](https://github.com/mattwaite/JOUR307-Data-Journalism/blob/master/Lectures/pdf_output/2_public_records.pdf)
 
 **Homework:**
 
@@ -150,7 +150,7 @@ There will be a reading quiz. Alert me immediately if the bookstore doesn't have
 * The foundations of analysis: The general questions you ask.
 * Summary statistics, central tendency, and more.
 
-[**Lecture slides**](https://github.com/mattwaite/JOUR307-Data-Journalism/blob/master/Lectures/pdf_output/2_analysis_basics.pdf)
+[**Lecture slides**](https://github.com/mattwaite/JOUR307-Data-Journalism/blob/master/Lectures/pdf_output/3_analysis_basics.pdf)
 
 **Homework:**
 
