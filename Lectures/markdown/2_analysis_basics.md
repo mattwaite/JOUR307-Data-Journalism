@@ -1,49 +1,28 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>JOUR 407: Data Journalism - Analysis Basics</title>
-    <meta charset="utf-8">
-    <style>
-      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
-      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
-      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
-
-      body { font-family: 'Droid Serif'; }
-      h1, h2, h3 {
-        font-family: 'Yanone Kaffeesatz';
-        font-weight: normal;
-      }
-      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
-    </style>
-  </head>
-  <body>
-    <textarea id="source">
-
-class: center, middle
-
 # Analysis Basics
 
 ---
 
-class: center, middle
+# But first: The records request project
+
+* Throughout the semester, you are going to have to request and acquire a dataset from the state government that is not online. 
+* You will have all semester long to do this. 
+* You must document everything you do, each answer you get from the agency, what you ultimately end up with. 
+* You will submit your data and give a lightning talk about your experience on Nov. 30. 
+* DO NOT BLOW THIS OFF. Failure to get something is an F. This may take you a week. This may take you all semester. 
+
+---
 
 # A word about math: You are not bad at math.
 
 ---
 
-class: center, middle
-
 # The secret to this class: Stop. Think. Ask.
 
 ---
 
-class: center, middle
-
 # The beginner's mind
 
 ---
-
-class: middle
 
 # The very basics: Terminology
 
@@ -54,8 +33,6 @@ class: middle
 5. Field/Cells/Objects
 
 ---
-
-class: middle
 
 # Things you can do with data
 
@@ -68,8 +45,6 @@ class: middle
 
 ---
 
-class: middle
-
 # Things you can do with data: Calculate things edition
 
 - Count things (usually have to group them first)
@@ -79,8 +54,6 @@ class: middle
 
 ---
 
-class: middle
-
 # Count things
 
 - Raw data versus summary data
@@ -89,8 +62,6 @@ class: middle
 
 ---
 
-class: middle
-
 # Measure the middle
 
 - The difference between average and median
@@ -98,8 +69,6 @@ class: middle
 - When to use medians vs when to use averages
 
 ---
-
-class: middle
 
 # Measure change
 
@@ -112,8 +81,6 @@ class: middle
 
 ---
 
-class: middle
-
 # Calculate rates
 
 - Rates: Make big numbers comprehensible and disparate things comparable
@@ -123,19 +90,8 @@ class: middle
 
 ---
 
-class: middle
-
 # For next time
 
 - Read Herzog Chapter 8
 - Read Numbers in the Newsroom 1 and 2
 - Bring your laptop. We get hands on next time.
-
-    </textarea>
-    <script src="https://gnab.github.io/remark/downloads/remark-latest.min.js">
-    </script>
-    <script>
-      var slideshow = remark.create();
-    </script>
-  </body>
-</html>

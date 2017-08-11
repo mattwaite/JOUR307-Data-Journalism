@@ -134,6 +134,8 @@ There will be a reading quiz. Alert me immediately if the bookstore doesn't have
 * The public records request assignment.
 * More examples of data stories; how to start looking for them.
 
+[**Lecture slides**](https://github.com/mattwaite/JOUR307-Data-Journalism/blob/master/Lectures/pdf_output/1_introductions.pdf)
+
 **Homework:**
 
 * Read: Herzog chapters 2, 3 and 4.
