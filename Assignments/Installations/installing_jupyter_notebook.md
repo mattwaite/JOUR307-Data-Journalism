@@ -1,4 +1,4 @@
-#Installing Jupyter Notebook and Agate on your computer
+# Installing Jupyter Notebook and Agate on your computer
 
 
 1. First, download and install Anaconda on your computer. You can download it here: [https://www.continuum.io/downloads](https://www.continuum.io/downloads) WARNING: It will take up 845MB of your hard drive. Install the version for Python 3.5. 
