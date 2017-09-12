@@ -1,4 +1,4 @@
-#Installing Jupyter Notebook and Agate on your computer
+# Installing Jupyter Notebook and Agate on your computer
 
 
 1. First, download and install Anaconda on your computer. You can download it here: [https://www.continuum.io/downloads](https://www.continuum.io/downloads) WARNING: It will take up 845MB of your hard drive. Install the version for Python 3.5. 
@@ -12,7 +12,7 @@
 9. Let's check if Jupyter Notebook is installed correctly by typing `jupyter notebook` and watching to see if a browser pops up with stuff in it. It should use your default browser. 
 10. On the top right of the browser, you should see a dropdown menu called New. Click that, and go down to Notebooks and Python 3. Click Python 3. 
 11. In the new window, in the first cell, type `import agate`.
-12. Underneath the Cell dropdown menu, you'll see a triangle pointing to the right into a line. Clicking that executes your command (which you want to do). In the next cell, type `print("Hello World!") and click that run button again.
+12. Underneath the Cell dropdown menu, you'll see a triangle pointing to the right into a line. Clicking that executes your command (which you want to do). In the next cell, type `print("Hello World!")` and click that run button again.
 13. Marvel at what you have done. You've created an entire virtual environment, installed software into it without harming your computer, opened up a browser based code editor and executed some Python. Cool, eh?
 14. Go to File > Close and Halt. 
 15. Go to your terminal and hit control C and say yes to shutting down he Jupyter server.
