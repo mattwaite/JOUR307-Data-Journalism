@@ -37,7 +37,9 @@
 
 # Assignment
 
-- Using tax data from the Nebraska Department of Revenue, calculate the following:
-- The change in Federal Adjusted Gross Income between 2000 and 2013 for every county in Nebraska.
-- The average the number of exemptions per return in 2000 and 2013 for every county in Nebraska.
-- The change in average Nebraska Net Taxable Income per return between 2000 and 2013 for every county in Nebraska.
+- Using farm data from the USDA, calculate the following:
+- The percent change in the total money made on all commodities in Nebraska from 2010 to 2016.
+- The percent change in beef receipts from 2010 to 2016 in Nebraska.
+- The percent change in corn receipts from 2010 to 2016 in Nebraska.
+- The percent of total receipts corn represents. The same for beef. 
+- Does using 2010 tell the whole story? What is a better number for showing Nebraska's ag woes?

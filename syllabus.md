@@ -181,7 +181,7 @@ There will be a reading quiz. Alert me immediately if the bookstore doesn't have
 
 * Basic Spreadsheets II - mean, median, min, max, ranking
 
-[Lecture slides](https://mattwaite.github.io/jour407/lectures/morespreadsheetbasics.html)
+[**Lecture slides**](https://github.com/mattwaite/JOUR307-Data-Journalism/blob/master/Lectures/pdf_output/5_more_spreadsheet_basics.pdf)
 
 **Homework:**
 
@@ -194,8 +194,6 @@ In the next class, be prepared to answer this question: If you had to explain ho
 * Does anyone see the problem here?
 * Reliability, replicability, transparency.
 * Changing how we approach data journalism
-* Working in the environment
-* An in-class example of working with a dataset: sorting, means and medians
 
 **Homework:**
 
@@ -221,6 +219,8 @@ In the next class, be prepared to answer this question: If you had to explain ho
 
 **In class:**
 
+* Working in the environment
+* An in-class example of working with a dataset
 * Means, medians and sorting in Agate
 
 [Lecture Jupyter Notebook](https://github.com/mattwaite/JOUR407-Data-Journalism/blob/master/Assignments/IntroductionToAgate/intro.ipynb)
