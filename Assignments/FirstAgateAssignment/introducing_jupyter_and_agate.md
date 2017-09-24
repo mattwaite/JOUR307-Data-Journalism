@@ -1,4 +1,4 @@
-#Introducing Jupyter and Agate
+# Introducing Jupyter and Agate
 
 Welcome to the new world of data journalism, where reliability, replicability and transparency are key elements of what you do. Using the methods we will use for the rest of the semester will go a long way toward ensuring you clearly understand what you are doing, are doing the analysis you think you are doing, and are able to show others what you've done to arrive at your answer. 
 
@@ -13,7 +13,7 @@ We're going to use Agate to do similar analysis to what we've already done. The 
 |Each step is documented.|A lot of overhead if you're just experimenting|
 |Work is in memory. No alterations to the underlying dataset.|If you forget to save data changes back out to a new file, you lose them.|
 
-##Simple analysis with Agate##
+## Simple analysis with Agate
 
 Let's look at a table of some basic numbers about Big 10 universities. [Download the file](https://www.dropbox.com/s/6aif8zotiip6oqh/colleges.csv?dl=0) and fire up Jupyter Notebook.
 
@@ -57,7 +57,7 @@ Breaking this down, first we create a variable -- a place to store this informat
 
 > On your own: What is the median tuition cost? What steps do you need to see that?
 
-##Assignment##
+## Assignment
 
 For Tuesday, start a new Jupyter Notebook. You will need to accomplish the following: 
 
