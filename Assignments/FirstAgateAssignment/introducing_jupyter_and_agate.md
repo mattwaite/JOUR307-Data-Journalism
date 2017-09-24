@@ -2,7 +2,7 @@
 
 Welcome to the new world of data journalism, where reliability, replicability and transparency are key elements of what you do. Using the methods we will use for the rest of the semester will go a long way toward ensuring you clearly understand what you are doing, are doing the analysis you think you are doing, and are able to show others what you've done to arrive at your answer. 
 
-> ###Note: You should have the [Agate docs](http://agate.readthedocs.org/en/1.2.0/) open
+> ### Note: You should have the [Agate docs](http://agate.readthedocs.org/en/1.2.0/) open
 
 
 We're going to use Agate to do similar analysis to what we've already done. The difference is that instead of pointing and clicking, you're going to write some very simple code. And you'll have a record of it when you're done so you can see what you've done. 
