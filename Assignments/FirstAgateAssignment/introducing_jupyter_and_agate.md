@@ -69,4 +69,4 @@ For Tuesday, start a new Jupyter Notebook. You will need to accomplish the follo
 6. Now try an average again. Remember what you learned in class about when you can see it and how you see it. 
 7. Now create a median salary for UNL.
 8. Now go back in and add cells to document what you've done. For each step in the code, create a Markdown cell and describe what you've done and why in your own words. 
-9. Your Jupyter notebook autosaves. Go through your shutdown routine and upload that .ipynb file to Blackboard. 
+9. Your Jupyter notebook autosaves. Go through your shutdown routine and upload that .ipynb file to Canvas. 
