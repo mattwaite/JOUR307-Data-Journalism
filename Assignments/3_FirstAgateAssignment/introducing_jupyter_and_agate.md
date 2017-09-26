@@ -65,7 +65,7 @@ Breaking this down, first we create a variable -- a place to store this informat
 For Tuesday, start a new Jupyter Notebook. You will need to accomplish the following:
 
 1. Always have to import agate first.
-2. Create a table called salaries by using [this CSV file of NU system salaries]https://www.dropbox.com/s/11ycr9s94arr2xx/nusalaries1718.csv?dl=0).
+2. Create a table called salaries by using [this CSV file of NU system salaries](https://www.dropbox.com/s/11ycr9s94arr2xx/nusalaries1718.csv?dl=0).
 3. Probably worthwhile to print out the table structure and see what you've got to work with.
 4. This table contains all salaries for every NU employee. We don't want that. We want to filter it out so you only see University of Nebraska-Lincoln employees. [Information on filtering is in the Agate documentation](http://agate.readthedocs.org/en/1.2.0/tutorial.html#selecting-and-filtering-data). Don't be intimidated by `lambda row: row['age'] is not None`. The lambda row stuff is boiler plate. The row[''] bits, you just want to replace what's in the '' with the name of your field (remember you printed out the table structure above). The rest is logic. `is not None` means select all rows where it isn't blank. You want something like `is 'SomeWordsHereNotGivingYouTheAnswer'`
 5. Go ahead and try computing an average now (we went through this in class, remember? You have code that does this already, remember?). Get an error message, don't you. That's because there are people who have zero listed in a salary. Can't have that. You need another filter. Pro tip: Filtering using words requires the words to be in single quotes i.e. 'Foo'. Numbers do NOT need to be in single quotes. Look at the filtering docs and put those things together.
