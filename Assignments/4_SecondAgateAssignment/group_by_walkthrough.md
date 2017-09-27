@@ -1,4 +1,3 @@
-
 # Group by walkthrough
 By now, you'd better know that you need to import Agate.
 
@@ -23,10 +22,10 @@ print(mountainlions)
     |  COUNTY       | Text          |
     |  Date         | Date          |
     |---------------+---------------|
-    
 
 
-First, let's group them together using `group_by`. We'll create a new table, called `by_county` and populate it with the results of our `group_by` statement. The new table is a subset of our first table we created on import, so we'll have to be sure to use that. 
+
+First, let's group them together using `group_by`. We'll create a new table, called `by_county` and populate it with the results of our `group_by` statement. The new table is a subset of our first table we created on import, so we'll have to be sure to use that.
 
 
 ```
@@ -55,14 +54,14 @@ by_county.print_table()
 
     <i-input-9-27a489864901> in <module>()
     ----> 1 by_county.print_table()
-    
+
 
     /Users/mattwaite/anaconda/envs/homework/lib/3.5/site-packages/agate/tableset.py in __getattr__(self, name)
         115         # Proxy table methods
         116         if name in Table.__dict__:
     --> 117             if Table.__dict__[name].allow_tableset_proxy:
         118                 return TableMethodProxy(self, name)
-        119 
+        119
 
 
     AttributeError: 'function' object has no attribute 'allow_tableset_proxy'
@@ -130,7 +129,7 @@ county_totals.print_table()
     |---------------+--------|
 
 
-That's more like it. But it's not in order, so it is sort of bothersome. We can fix that just like we did in the first walkthrough -- with ordering. 
+That's more like it. But it's not in order, so it is sort of bothersome. We can fix that just like we did in the first walkthrough -- with ordering.
 
 
 ```
@@ -186,7 +185,7 @@ sorted_counties.print_table()
     |---------------+--------|
 
 
-A note on `print_table`: You can limit the number of rows you print by addng max_rows=X to the print_table in the parenthesis, like this: 
+A note on `print_table`: You can limit the number of rows you print by addng max_rows=X to the print_table in the parenthesis, like this:
 
 
 ```
@@ -224,11 +223,11 @@ sorted_counties.print_table(max_rows=25)
     |  ...          |   ...  |
     |---------------+--------|
 
-###Assignment###
+### Assignment
 
-1. Copy your homework notebook from last time, the one with UNL salaries. Rename it to something else. I called my SecondAgateHomework.ipynb
+1. Use your homework notebook from last time.
 2. Using what you've done already, let's extend it. We've calculated the median and mean salary for all UNL employees, but that doesn't tell the whole story. The mean includes football and basketball coaches. The medians don't show the differences between jobs at the university. So using what you've learned in this walkthrough, group the salaries by job title.
-3. Aggregate a count, a median and an average for each job title. Hint: You can do this all in one aggregate table. [See here](http://agate.readthedocs.org/en/1.2.0/tutorial.html#grouping-and-aggregating). One gotcha on that multiple aggregates in a single table thing: Watch out for commas. You need one at the end of every line EXCEPT the last aggregate.
-4. Sort the table by the count, putting the most common job title at the top. 
+3. Aggregate a count, a median and an average for each job title. Hint: You can do this all in one aggregate table. [See here](http://agate.readthedocs.io/en/1.6.0/cookbook/statistics.html). One gotcha on that multiple aggregates in a single table thing: Watch out for commas. You need one at the end of every line EXCEPT the last aggregate.
+4. Sort the table by the count, putting the most common job title at the top.
 5. Print the table out. Limit it to the 50 most common jobs.
-6. Make sure you describe each step taken in Markdown between the commands. 
+6. Make sure you describe each step taken in Markdown between the commands.
