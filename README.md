@@ -25,3 +25,5 @@ __Required Materials:__
 * A copy of Data Literacy: A Users's Guide by David Herzog. Available in the bookstore.
 * Online materials and class handouts, as needed.
 * A sense of humor.
+
+### Instructors: email me at matt dot waite at unl dot edu for answers to the assignments.
